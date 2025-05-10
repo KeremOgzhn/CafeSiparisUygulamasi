@@ -1,0 +1,20 @@
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\bin\Debug\FormdaCafeSiparişUygulaması.exe.config
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\bin\Debug\FormdaCafeSiparişUygulaması.exe
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\bin\Debug\FormdaCafeSiparişUygulaması.pdb
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.Form1.resources
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.Properties.Resources.resources
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.exe
+C:\Users\Hp\Desktop\udemy örneklerim\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.pdb
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\bin\Debug\FormdaCafeSiparişUygulaması.exe.config
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\bin\Debug\FormdaCafeSiparişUygulaması.exe
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\bin\Debug\FormdaCafeSiparişUygulaması.pdb
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.Form1.resources
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.Properties.Resources.resources
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.exe
+C:\Users\Hp\Desktop\udemy örneklerim\C# kurs\c# ileri seviye\FormdaCafeSiparişUygulaması\FormdaCafeSiparişUygulaması\obj\Debug\FormdaCafeSiparişUygulaması.pdb
